@@ -5,3 +5,5 @@
 **Homework 3** *(regression)* https://github.com/jakubweglowski/Machine-Learning-Summer-2024-25/blob/main/Homework03_regression.ipynb
 
 **Homework 4** *(penalized regression)* https://github.com/jakubweglowski/Machine-Learning-Summer-2024-25/blob/main/Homework04_penalized-regression.ipynb
+
+**Homework 5** *(kernel methods)* https://github.com/jakubweglowski/Machine-Learning-Summer-2024-25/blob/main/Homework05_kernel-methods.ipynb
