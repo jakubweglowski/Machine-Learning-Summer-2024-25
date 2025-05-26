@@ -13,3 +13,5 @@
 **Homework 8** *(automatic gradient training loop)* https://github.com/jakubweglowski/Machine-Learning-Summer-2024-25/blob/main/Homework08_automatic-gradient-training-loop.ipynb
 
 **Homework 9** *(multi-layer perceptron MLP)* https://github.com/jakubweglowski/Machine-Learning-Summer-2024-25/blob/main/Homework09_multi-layer-perceptron-MLP.ipynb
+
+**Homework 11** *(autoencoders)* https://github.com/jakubweglowski/Machine-Learning-Summer-2024-25/blob/main/Homework11_autoencoders.ipynb
