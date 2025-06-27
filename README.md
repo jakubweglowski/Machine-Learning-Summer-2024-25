@@ -17,3 +17,6 @@
 **Homework 11** *(autoencoders)* https://github.com/jakubweglowski/Machine-Learning-Summer-2024-25/blob/main/Homework11_autoencoders.ipynb
 
 **Homework 12** *(NLP towards attention)* https://github.com/jakubweglowski/Machine-Learning-Summer-2024-25/blob/main/Homework12_NLP-towards-attention.ipynb
+
+**Homework 13** *(towards self-attention)* https://github.com/jakubweglowski/Machine-Learning-Summer-2024-25/blob/main/Homework13_towards-self-attention.ipynb 
+(I ran this locally on my laptop, so I don't know whether it's possible to run properly it on Colab)
